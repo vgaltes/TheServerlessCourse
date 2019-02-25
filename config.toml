@@ -1,0 +1,14 @@
+baseURL = "https://theserverlesscourse.com/"
+languageCode = "en-uk"
+title = "The Serverless Course"
+canonifyUrls = "true"
+theme = "landing-page-hugo"
+
+[params]
+    description = "El curso de iniciación a Serverless que necesitas"
+    custom_css = ["css/local.css"]
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:info@theserverlesscourse.com"
