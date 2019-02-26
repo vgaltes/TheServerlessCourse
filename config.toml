@@ -10,4 +10,4 @@ theme = "landing-page-hugo"
 [[params.social]]
     title = "email"
     icon = "envelope-o"
-    url = "mailto:info@theserverlesscourse.com"
+    url = "mailto:vgaltes@gmail.com"
