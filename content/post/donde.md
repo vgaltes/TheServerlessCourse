@@ -6,4 +6,4 @@ weight = 2
 img = "donostia.jpg"
 +++
 
-La próxima edición del curso se realizará en Donostia los próxmios 9 y 10 de Mayo. El curso se extenderá durante durante dos dias de 9 de la mañana a 6 de la tarde, con pausas para descansar durante el día y una pausa más larga para comer.
+La próxima edición del curso se realizará en Donostia los próximos 9 y 10 de Mayo. El curso se extenderá durante durante dos dias de 9 de la mañana a 6 de la tarde, con pausas para descansar durante el día y una pausa más larga para comer.
